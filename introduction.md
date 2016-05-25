@@ -1,3 +1,4 @@
-Huhu, this is trex667!
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-My favorite code school courses are javascript!
+* Ruby on Rails
+*Git
